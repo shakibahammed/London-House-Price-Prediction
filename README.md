@@ -1,5 +1,12 @@
 London House Price Prediction (End-to-End ML + ANN)
 
+Colab File Link : https://colab.research.google.com/drive/1hFlLeVFvkLz_9vPdJS0fK-eY7aF6tUTS?usp=sharing 
+
+Dataset is not included due to GitHub file size limitation (25MB).
+Dataset can be accessed from Google Drive:
+
+Dataset Link : https://drive.google.com/file/d/1L-9E3HfAz-_g5w1Rxx9Uc7SaNlR8c4fe/view?usp=sharing
+
 Project Overview
 This project predicts London house prices using machine learning and deep learning models. It includes full pipeline from data preprocessing to ANN-based regression.
 
